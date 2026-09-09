@@ -21,6 +21,5 @@ commutative instances of quantum probabilistic structures.
 **Department of Mathematics, University of Oslo**  
 **10 ECTS — Spring 2026**
 
-## Thesis
 
 [📄 Read the thesis](./Pierre_Levilion_Bachelor_Thesis.pdf)
