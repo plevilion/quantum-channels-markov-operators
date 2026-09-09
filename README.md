@@ -23,3 +23,4 @@ commutative instances of quantum probabilistic structures.
 
 ## Thesis
 
+[📄 Read the thesis](./Pierre_Levilion_Bachelor_Thesis.pdf)
